@@ -1,6 +1,8 @@
 # Earthquake-Geomapping
 Uses Leaflet.js to plot recent earthquakes on a map
 
+![sample map]()
+
 ### Description
 Science tells us that most earthquakes occur mostly along tectonic plate boundaries.  This project aims to map this trend.
 
